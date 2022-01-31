@@ -4,7 +4,9 @@ I like to do frontend development and give the best user experience for the webs
 
 <br />
 
-Skills: NEXT JS / REACT / TYPESCRIPT / JS / CSS / HTML
+## Skills:
+
+<img src="https://user-images.githubusercontent.com/79429518/151753350-49b1bd5e-5127-4887-9aa5-d41ae999da9c.png" alt="html" height='40' />
 
 <br />
 
