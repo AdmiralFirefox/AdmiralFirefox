@@ -19,7 +19,7 @@ I like to do frontend development and give the best user experience for the webs
 <br />
 
 ## Socials 📱
-[<img src='https://user-images.githubusercontent.com/79429518/151757197-b7eab3f0-0421-4965-a263-50b0b9e3b6c0.png' alt='github' height='40'>](https://github.com/AdmiralFirefox) [<img src='https://user-images.githubusercontent.com/79429518/151757125-f92d9a0e-59e9-4fa1-a70f-24356d6fc4d8.png' alt='facebook' height='40'>](https://www.facebook.com/jjlcuadra)  
+[<img src='https://user-images.githubusercontent.com/79429518/151763465-f0c8b58a-0eda-4705-992d-609d528fe77b.png' alt='github' height='40'>](https://github.com/AdmiralFirefox) [<img src='https://user-images.githubusercontent.com/79429518/151757125-f92d9a0e-59e9-4fa1-a70f-24356d6fc4d8.png' alt='facebook' height='40'>](https://www.facebook.com/jjlcuadra)  
 
 <br />
 
