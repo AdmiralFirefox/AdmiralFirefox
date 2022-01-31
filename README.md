@@ -10,7 +10,6 @@ Skills: NEXT JS / REACT / TYPESCRIPT / JS / CSS / HTML
 
 - 🔭 I’m currently working on https://github.com/AdmiralFirefox/next-safari 
 - 📫 How to reach me: jjlcuadradev@gmail.com 
-<br />
 
 ## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdmiralFirefox) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jjlcuadra)  
