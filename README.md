@@ -10,8 +10,11 @@ I like to do frontend development and give the best user experience for the webs
 
 <br />
 
-- 🔭 I’m currently working on https://github.com/AdmiralFirefox/next-safari 
-- 📫 How to reach me: jjlcuadradev@gmail.com 
+🔭 I’m currently working on:
+- https://github.com/AdmiralFirefox/next-safari 
+
+📫 How to reach me:
+- jjlcuadradev@gmail.com 
 
 <br />
 
