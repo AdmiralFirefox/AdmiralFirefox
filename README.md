@@ -1,8 +1,6 @@
 ## Hello, I'm James Cuadra! 👋
 
-I like to do frontend development and give the best user experience for the websites I develop.
-
-<br />
+I like to do frontend development and give the best user experience for the websites I develop.  
 
 ## Skills 🛠
 
