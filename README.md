@@ -10,7 +10,6 @@ Skills: NEXT JS / REACT / TYPESCRIPT / JS / CSS / HTML
 
 - 🔭 I’m currently working on https://github.com/AdmiralFirefox/next-safari 
 - 📫 How to reach me: jjlcuadradev@gmail.com 
-
 <br />
 
 ## Socials
