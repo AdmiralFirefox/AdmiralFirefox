@@ -20,6 +20,4 @@ Skills: NEXT JS / REACT / TYPESCRIPT / JS / CSS / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralFirefox)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdmiralFirefox)  
