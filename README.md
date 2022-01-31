@@ -6,7 +6,9 @@ I like to do frontend development and give the best user experience for the webs
 
 ## Skills:
 
-<img src="https://user-images.githubusercontent.com/79429518/151753350-49b1bd5e-5127-4887-9aa5-d41ae999da9c.png" alt="html" height='40' />
+<img src="https://user-images.githubusercontent.com/79429518/151753350-49b1bd5e-5127-4887-9aa5-d41ae999da9c.png" alt="HTML" height='40' />
+<img src="https://user-images.githubusercontent.com/79429518/151753514-01c29207-67d7-4bed-9712-607ea06d9d4a.png" alt="CSS" height='40' />
+<img src="https://user-images.githubusercontent.com/79429518/151753603-64512149-54e4-4c9a-9d23-8b53bcc876c6.png" alt="CSS" height='40' />
 
 <br />
 
