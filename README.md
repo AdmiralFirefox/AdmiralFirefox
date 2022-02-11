@@ -2,7 +2,9 @@
 
 I am a challenge-driven Frontend Developer who utilizes modern technologies to bring captivating user experiences to life on the web.
 
-Currently a Freshman at [West Visayas State University](https://wvsu.edu.ph/)
+<br />
+
+Currently a Freshman at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 
