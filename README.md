@@ -13,6 +13,8 @@ I am a challenge-driven Frontend Developer who utilizes modern technologies to b
 🔭 **I’m currently working on**:
 * [Safari](https://github.com/AdmiralFirefox/next-safari)
 
+<br />
+
 📫 **How to reach me**:
 * [My Gmail](https://mail.google.com/mail/u/0/?fs=1&to=jjlcuadradev@gmail.com&su=SUBJECT&body=BODY&bcc=jjlcuadradev@gmail.com&tf=cm)
 
