@@ -1,6 +1,6 @@
 ## Hello, I'm James Cuadra! 👋
 
-I like to do frontend development and give the best user experience for the websites I develop. I am a challenge-driven developer who utilizes modern technologies to bring captivating user experiences to life on the web.
+I am a challenge-driven Frontend Developer who utilizes modern technologies to bring captivating user experiences to life on the web.
 
 <br />
 
