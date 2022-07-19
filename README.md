@@ -20,7 +20,7 @@ An incoming Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 <br />
 
 📫 **How to reach me**:
-* You can contact me through my Gmail: `jjlcuadradev@gmail`
+* You can contact me through my Gmail: `jjlcuadradev@gmail.com`
 
 <br />
 
