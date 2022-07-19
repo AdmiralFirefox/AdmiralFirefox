@@ -12,7 +12,7 @@ An incoming Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 
-## Familiar with 🤔
+## Familiar with 🔍
 
 <img src="https://user-images.githubusercontent.com/79429518/157353057-51b83a55-d99a-4234-84f3-e93fea8e45c4.png" alt="C++" height='40' /> <img src="https://user-images.githubusercontent.com/79429518/157352874-10d58eed-d255-40ec-8b86-f3b9d4cbc2ba.png" alt="Java" height='40' /> <img src="https://user-images.githubusercontent.com/79429518/157352912-1652dd2f-bf6b-4704-889e-2526d0679f1b.png" alt="Python" height='40' /> <img src="https://user-images.githubusercontent.com/79429518/179784809-c1909234-7f44-40e1-af9f-1a1023bacfb7.png" alt="C#" height='40' /> <img src="https://user-images.githubusercontent.com/79429518/171039200-485ee8cc-d6f2-46e4-ac63-7f46a59d9d11.png" alt="Unity" height='40' /> <img src="https://user-images.githubusercontent.com/79429518/171039641-2d9ca075-0715-499f-b79a-eed2dff9c054.png" alt="Godot" height='40' />
 
