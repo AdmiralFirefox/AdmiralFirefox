@@ -2,7 +2,7 @@
 
 I am a challenge-driven Web Developer who utilizes modern technologies to bring captivating user experiences to life on the web.
 
-An incoming Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
+Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 
