@@ -37,14 +37,15 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 </div>
 
 <br />
+<br />
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 [<img src='https://img.shields.io/badge/-jjlcuadradev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='25'>](mailto:jjlcuadradev@gmail.com)
 
 <br />
 
-## Socials 📱
+### Socials 📱
 
 [<img src='https://img.shields.io/badge/-jjlcuadra-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook' height='25'>](https://www.facebook.com/jjlcuadra)
 
