@@ -34,6 +34,8 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
   <img src="https://user-images.githubusercontent.com/79429518/179784809-c1909234-7f44-40e1-af9f-1a1023bacfb7.png" alt="C#" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/171039200-485ee8cc-d6f2-46e4-ac63-7f46a59d9d11.png" alt="Unity" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/171039641-2d9ca075-0715-499f-b79a-eed2dff9c054.png" alt="Godot" height='40' />
+  <img src="https://user-images.githubusercontent.com/79429518/209514796-63f79738-031a-4974-9dd5-2cf479e1a1af.png" alt="Astro" height='40' />
+  <img src="https://user-images.githubusercontent.com/79429518/209514941-be9d225f-8ad9-43a3-9c37-8164d0bee329.png" alt="Tailwind" height='40' />
 </div>
 
 <br />
@@ -51,6 +53,5 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 <br />
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralFirefox)](https://github.com/anuraghazra/github-readme-stats)
