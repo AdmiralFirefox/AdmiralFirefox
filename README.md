@@ -55,4 +55,4 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 <br />
 <br />
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=admiralfirefox&layout=compact' alt='Top Languages' width="100%">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=admiralfirefox&layout=compact' alt='Top Languages' width="355">
