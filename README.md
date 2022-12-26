@@ -6,7 +6,7 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 
-## Skills 🛠
+## Skills ⚒️
 
 <div>
   <img src="https://user-images.githubusercontent.com/79429518/151753350-49b1bd5e-5127-4887-9aa5-d41ae999da9c.png" alt="HTML" height='40' /> 
@@ -25,7 +25,7 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
 
 <br />
 
-## Familiar with 🔍
+## Familiar with 💡
 
 <div>
   <img src="https://user-images.githubusercontent.com/79429518/157353057-51b83a55-d99a-4234-84f3-e93fea8e45c4.png" alt="C++" height='40' /> 
