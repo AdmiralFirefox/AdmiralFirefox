@@ -17,6 +17,7 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
   <img src="https://user-images.githubusercontent.com/79429518/151753807-86a69cb5-b34d-48bb-aa80-bf151def1751.png" alt="Typescript" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/151754639-80cd2a68-c1da-495e-acd0-e4048392e7ae.png" alt="NextJS" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/209190055-7c41e77c-f947-4690-91cc-aa03685336bf.png" alt="11ty/Eleventy" height='40' />
+  <img src="https://user-images.githubusercontent.com/79429518/209514796-63f79738-031a-4974-9dd5-2cf479e1a1af.png" alt="Astro" height='40' />
   <img src="https://user-images.githubusercontent.com/79429518/151753985-7801d5f4-8816-4ca8-b810-77d3c1ce4fbf.png" alt="Firebase" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/179785637-d27f4ace-5bf3-4c1e-a690-d2b9011ed25e.svg" alt="ReactQuery" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/151754846-602318e8-18be-4e4c-9f14-723132d60f56.png" alt="Redux" height='40' /> 
@@ -34,7 +35,6 @@ Currently a Sophomore at [West Visayas State University.](https://wvsu.edu.ph/)
   <img src="https://user-images.githubusercontent.com/79429518/179784809-c1909234-7f44-40e1-af9f-1a1023bacfb7.png" alt="C#" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/171039200-485ee8cc-d6f2-46e4-ac63-7f46a59d9d11.png" alt="Unity" height='40' /> 
   <img src="https://user-images.githubusercontent.com/79429518/171039641-2d9ca075-0715-499f-b79a-eed2dff9c054.png" alt="Godot" height='40' />
-  <img src="https://user-images.githubusercontent.com/79429518/209514796-63f79738-031a-4974-9dd5-2cf479e1a1af.png" alt="Astro" height='40' />
   <img src="https://user-images.githubusercontent.com/79429518/209514941-be9d225f-8ad9-43a3-9c37-8164d0bee329.png" alt="Tailwind" height='40' />
 </div>
 
