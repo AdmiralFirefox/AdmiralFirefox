@@ -2,7 +2,7 @@
 
 I am a challenge-driven Web Developer who utilizes modern technologies to bring captivating user experiences to life on the web.
 
-Currently a Sophomore at [West Visayas State University,](https://wvsu.edu.ph/) taking Bachelor of Science in Computer Science.
+Currently a Junior at [West Visayas State University,](https://wvsu.edu.ph/) taking Bachelor of Science in Computer Science.
 
 <br />
 
