@@ -1,6 +1,6 @@
 ## Hello, I'm James Cuadra! 👋
 
-I am a challenge-driven Web Developer who utilizes modern technologies to bring captivating user experiences to life on the web.
+I like to create web apps and websites that utilizes modern technologies to bring captivating user experiences to life.
 
 Currently a Junior at [West Visayas State University,](https://wvsu.edu.ph/) taking Bachelor of Science in Computer Science.
 
