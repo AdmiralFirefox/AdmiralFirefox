@@ -2,7 +2,7 @@
 
 I like to build software applications that utilizes various modern technologies to bring captivating user experiences to life.
 
-Currently a Junior at [West Visayas State University,](https://wvsu.edu.ph/) taking Bachelor of Science in Computer Science.
+Currently a Senior at [West Visayas State University,](https://wvsu.edu.ph/) taking Bachelor of Science in Computer Science.
 
 <br />
 
