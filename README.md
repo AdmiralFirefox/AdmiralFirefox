@@ -2,8 +2,6 @@
 
 I like to build software applications that utilizes various modern technologies that solve real-world problems. I'm always learning, keeping up with the latest tech trends and exploring modern frameworks. I'm adaptable and continuously improving my skills to build innovative solutions.
 
-<br />
-
 ### 📫 How to reach me:
 
 [<img src='https://img.shields.io/badge/-jjlcuadradev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='25'>](mailto:jjlcuadradev@gmail.com)
